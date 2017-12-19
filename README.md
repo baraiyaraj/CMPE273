@@ -5,7 +5,7 @@ Labs and Assignments for Distributed Systems
 Implement a key-value store gRPC service using RocksDB on Docker.
 
 ### Assignment 1
-Dynamic Python invoker REST service.
+Dynamic Python invoker REST service using flask.
 
 ### Assignment 2
 Implement real-time replication from master node into slave node using gRPC and Rocksdb.
